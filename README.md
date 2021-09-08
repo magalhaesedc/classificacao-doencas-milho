@@ -6,6 +6,11 @@
 
  - Utilização de Redes Neurais Concolucionais para classificação de doenças a partir da folha do milho.
 
+## :floppy_disk: Conjunto de Dados
+
+ - PlantVillage Dataset - Subconjunto do Milho (CORN)
+<https://www.kaggle.com/abdallahalidev/plantvillage-dataset>
+
 ## :pushpin: Autores
 
 Integrantes do grupo de pesquisa Núcleo de Pesquisa e Computação Aplicada (NPCA <https://sites.google.com/view/npca-ufra/npca-home>).
