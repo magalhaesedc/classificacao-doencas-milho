@@ -4,7 +4,7 @@
 
  - Arquivos usados no projeto de diagnóstico de doenças do Milho.
 
- - Utilização de Redes Neurais Concolucionais para classificação de doenças a aprtir da folha do milho.
+ - Utilização de Redes Neurais Concolucionais para classificação de doenças a partir da folha do milho.
 
 ## :pushpin: Autores
 
